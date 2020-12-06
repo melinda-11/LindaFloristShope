@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LindaFloristShope</string>
+    <string name="content_text">Jika anda ingin lebih personal, maka rangkaian bunga hand buket cocok anda berikan kepada orang yang anda sayangi. Jenis bunga hand buket atau hand bouquet dalam bahasa inggris biasanya berisi dengan bunga mawar, bunga lily, bunga tulip ditambah hiasan bunga kecil lainnya. Biasanya bunga ini untuk acara yang lebih personal seperti untuk mengungkapkan kasih sayang atau acara yang bersifat romantis, hingga untuk sekedar meminta maaf kepada orang yang anda tuju.</string>
+    <string name="content_price">Rp. 2.500.000</string>
+    <string name="content_specs_display"> 5 Buket Bunga terbaik untuk penghujung diakhir tahun</string>
+    <string name="content_specs_berat">Berat buket 400gr,500gr,600gr,700gr </string>
+    <string name="content_specs_harga">
+12 mawar merah dengan filler dalam buket Rp465.000
+12 mawar putih dalam buket Rp425.000
+Hand bouquet isi 15 tangkai mawar Rp510.000
+Hand bouquet isi 20 mixed roses	Rp539.000
+Hand bouquet isi 6 mawar peach dan baby breath Rp337.500
+Hand bouquet isi 21 mawar merah dan 3 peach	Rp675.000
+Bunga buket lily isi 10 Rp671.000</string>
+
+</resources>
